@@ -10,6 +10,7 @@ CommerceNexus comprises the following microservices:
 2. **API Gateway:** Provides a unified interface for accessing various services and handling client requests.
 3. **Product Service:** Manages product catalogs, inventory, and related functionalities.
 4. **Authentication Server:** Handles user authentication, authorization, and security aspects of the platform.
+5. **Payment Gateway Service:** Handles payments with razorpay and stripe gateway and webhook events.
 
 ## Repositories
 
@@ -19,6 +20,7 @@ CommerceNexus is built upon the collaboration of multiple repositories, each foc
 2. **[ecom-api-gateway](https://github.com/ashwani-cse/ecom-api-gateway):** Contains the codebase for the API Gateway microservice.
 3. **[product-service-api](https://github.com/ashwani-cse/product-service-api):** Contains the codebase for the Product Service microservice.
 4. **[ecom-auth-service](https://github.com/ashwani-cse/ecom-auth-service):** Contains the codebase for the Authentication Server microservice.
+5. **[payment-gateway-service](https://github.com/ashwani-cse/payment-service):** Contains the codebase for the Payment gateway configuration with Stripe and Razorpay.
 
 ## Getting Started
 
