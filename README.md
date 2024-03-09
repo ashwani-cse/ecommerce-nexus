@@ -29,7 +29,10 @@ CommerceNexus is built upon the collaboration of multiple repositories, each foc
 To set up CommerceNexus and deploy its microservices, follow the instructions provided in each respective repository. You can clone and install each microservice independently or utilize deployment scripts for easier setup.
 
 
-## Contact & Social Profile
+## Stay Connected
+
+Connect with us on social media and stay updated with the latest news and developments:
+
 - [LinkedIn](https://www.linkedin.com/in/ashwanicse/)
 - [Leetcode](https://leetcode.com/ashwani__kumar/)
 - [Topmate](https://topmate.io/ashwanikumar)
